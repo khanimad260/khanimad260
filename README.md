@@ -17,5 +17,3 @@ I am a first-year Computer Science student passionate about problem-solving and 
 - 💻 Solving problems on **Codeforces/HackerRank** using C.
 - 📚 Learning **Data Structures & Algorithms**.
 - 🏫 Academic projects for EWU.
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
